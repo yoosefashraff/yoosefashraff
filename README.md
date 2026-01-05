@@ -13,7 +13,7 @@ I mix design thinking with technical precision to deliver fast, scalable, and in
 - **Grass Spaces** — *US-based web platform connecting homeowners with local advertisers and tag sale hosts.*  
   🔹 Full UI/UX + Frontend (React, Next.js, Stripe)  
 
-- **AI-Driven Frontend Automation** — *Figma-to-Code workflow using V0.dev, Lovable & Cursor.*  
+- **AI-Driven Frontend Automation** — *Figma-to-Code workflow using AI tools & Cursor.*  
   🔹 Rapid prototyping using AI-first tools
   
 - **MyQuery** — *Data-driven insights platform built with React, Node.js, and MongoDB.*  
